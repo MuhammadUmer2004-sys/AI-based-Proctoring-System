@@ -1,0 +1,14 @@
+flask
+opencv-python
+opencv-python-headless
+dlib
+face_recognition
+imutils
+numpy
+pillow
+torch
+torchvision
+tensorflow
+flask_cors
+pyshine==0.0.9
+yolov5 @ git+https://github.com/ultralytics/yolov5.git
